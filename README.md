@@ -24,12 +24,6 @@ This website showcases my skills, projects, and ways to contact me.
 
 ## 🖼️ Screenshots
 
-### Header
-![Header](images/Shivu.png)
-
-### About Section
-![About](images/H4.png)
-
 ### Portfolio / Work Section
 ![Work](images/work-1.png)
 
