@@ -6,7 +6,7 @@ This website showcases my skills, projects, and ways to contact me.
 ---
 
 ## 🌐 Live Demo
-[View Live Website](https://shivamyadav-2005.github.io)
+[View Live Website](https://shivamyadav-2005.github.io/shivamyadav-2005)
 
 ---
 
