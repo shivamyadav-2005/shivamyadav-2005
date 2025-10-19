@@ -212,7 +212,12 @@ function opentab(tabname){
     function closemenu(){
         sidemenu.style.right = "-200px";
     }
-
+    var navLinks = sidemenu.getElementsByTagName("a");
+    for (var i = 0; i < navLinks.length; i++) {
+        navLinks[i].addEventListener("click", function() {
+            closemenu();
+    });
+}
 
 
 </script>
