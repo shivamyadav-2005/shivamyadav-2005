@@ -318,6 +318,17 @@ form .btn2{
 .copyright i{
     color: #ff004f;
 }
+.layer p strong {
+  color: #00bcd4;
+  font-weight: 600;
+}
+
+.layer p:nth-of-type(2), 
+.layer p:nth-of-type(3) {
+  font-size: 14px;
+  opacity: 0.9;
+  margin-top: 3px;
+}
 /*-------------css for small screens----------*/
 nav .fa-solid{
     display: none;
