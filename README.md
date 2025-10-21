@@ -1,7 +1,7 @@
 # Shivam Yadav's Portfolio Website 🌟
 
-Welcome to my personal portfolio website!  
-This website showcases my skills, projects, and ways to contact me.
+A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript.
+It showcases my projects, skills, and contact information, and serves as a central hub for my work as a web developer.
 
 ---
 
@@ -30,6 +30,27 @@ This website showcases my skills, projects, and ways to contact me.
 - Contact form connected to Google Sheets  
 
 ---
+🧩 Featured Projects
+
+
+💼 Portfolio Website
+
+A fully responsive and elegant portfolio website designed to highlight my skills, projects, and contact details.
+Features: Smooth navigation, responsive layout, modern UI with animation effects.
+Focus: Personal branding, clean design, and front-end structure.
+
+📝 To-Do List App
+
+A simple and clean To-Do app built with HTML, CSS, and JavaScript.
+Features: Add, edit, delete, and mark tasks as complete.
+Focus: DOM manipulation, local storage, and responsive UI.
+
+🧮 Calculator Web App
+
+A responsive calculator that performs basic arithmetic operations.
+Features: Addition, subtraction, multiplication, division, clear (AC) button.
+Focus: Event handling, keyboard support, and mobile-friendly design.
+
 
 ## 📂 Folder Structure
 shivamyadav-2005/
@@ -46,6 +67,13 @@ shivamyadav-2005/
 
 
 ---
+
+👨‍💻 About Me
+
+Hi! I’m Shivam Yadav, a passionate front-end developer and computer science student with a strong interest in building clean, responsive, and user-friendly web interfaces.
+I’m currently exploring JavaScript frameworks and Data Structures & Algorithms (C++) to strengthen my overall development skills.
+
+💡 Open to internship opportunities in Web Development or Front-End Engineering.
 
 ## 📫 Contact
 - **Email:** shivamyadav40264@gmail.com   
